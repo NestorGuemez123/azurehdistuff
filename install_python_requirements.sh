@@ -1,0 +1,1 @@
+sudo /usr/bin/anaconda/envs/py27new/bin/pip install configparser
