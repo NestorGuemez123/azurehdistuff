@@ -1,0 +1,1 @@
+sudo /usr/bin/anaconda/bin/conda env remove --name py38
