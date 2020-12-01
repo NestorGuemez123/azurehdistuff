@@ -1,0 +1,1 @@
+sudo /usr/bin/anaconda/envs/py38datalake/bin/pip install configparser numpy scikit-learn xgboost

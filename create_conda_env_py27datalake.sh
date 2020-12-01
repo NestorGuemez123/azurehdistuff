@@ -1,0 +1,1 @@
+sudo /usr/bin/anaconda/bin/conda create --prefix /usr/bin/anaconda/envs/py27datalake python=2.7 anaconda --yes
