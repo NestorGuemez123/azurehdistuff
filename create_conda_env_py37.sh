@@ -1,0 +1,1 @@
+sudo /usr/bin/anaconda/bin/conda create --prefix /usr/bin/anaconda/envs/py37 python=3.7
