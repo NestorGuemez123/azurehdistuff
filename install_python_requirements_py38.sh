@@ -1,1 +1,0 @@
-sudo /usr/bin/anaconda/envs/py38/bin/pip install configparser numpy scikit-learn xgboost pyspark

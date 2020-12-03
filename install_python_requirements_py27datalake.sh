@@ -1,1 +1,0 @@
-sudo /usr/bin/anaconda/envs/py27datalake/bin/pip install configparser scikit-learn xgboost
